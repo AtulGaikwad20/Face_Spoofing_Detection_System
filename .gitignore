@@ -1,0 +1,19 @@
+# Large trained model
+anti_spoofing_model.h5
+
+# Dataset archive
+dataset/anti_spoofing_dataset.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment/secrets
+.env
